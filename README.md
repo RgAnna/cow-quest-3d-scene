@@ -19,13 +19,6 @@ This 3D scene showcases an adventurous cow exploring a dungeon environment, blen
 - Fully customized materials and textures inside Blender for easy adaptation and flexibility.  
 - Ideal for use in games, animations, and high-quality visual presentations.
 
-## Usage
-
-Ready for import into any 3D software or game engine supporting Blender (.blend) or standard formats like FBX/OBJ.
-
-## Additional Information
-
-For questions or assistance, please feel free to reach out!
 
 __Contact:__ [https://www.artstation.com/rganna](https://www.artstation.com/rganna)
 
@@ -50,13 +43,7 @@ __Contact:__ [https://www.artstation.com/rganna](https://www.artstation.com/rgan
 - Полностью настроенные материалы и текстуры внутри Blender для удобства адаптации и гибкости.  
 - Идеально подходит для использования в играх, анимациях и качественных визуальных презентациях.
 
-## Использование
 
-Готова к импорту в любое 3D ПО или игровой движок, поддерживающий Blender (.blend) или стандартные форматы FBX/OBJ.
-
-## Дополнительная информация
-
-Если у вас есть вопросы или нужна помощь — обращайтесь!
 
 __Контакты:__ [https://www.artstation.com/rganna](https://www.artstation.com/rganna)
 
