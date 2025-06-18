@@ -29,7 +29,7 @@ This 3D scene showcases an adventurous cow exploring a dungeon environment, blen
 [![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
 
 
----
+------------------------------------------------------------------
 
 # Сцена «Приключения Коровы» (Low Poly / High Poly)
 
